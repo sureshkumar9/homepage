@@ -1,0 +1,701 @@
+      .header1 {
+          display: flex;
+      }
+      
+      .header2 {
+          margin-left: 12px;
+          margin-top: 25px;
+          width: 300px;
+          height: 80px;
+      }
+      
+      .vl {
+          border-left: 6px solid black;
+          height: 500px;
+          width: 2px;
+          height: 80px;
+          background-color: #000000;
+          opacity: 0.6;
+          margin-left: 12px;
+          margin-top: 25px;
+      }
+      
+      .header3 {
+          margin-left: 55px;
+          margin-top: 25px;
+      }
+      
+      .header4 {
+          margin-left: 400px;
+          margin-top: 55px;
+      }
+      
+      #co-header {
+          display: flex;
+          position: relative;
+      }
+      
+      .co-header1 {
+          margin-left: 700px;
+          margin-top: 55px;
+      }
+      
+      .card {
+          background-color: #ffffff;
+          margin-left: 300px;
+          margin-top: 150px;
+          position: absolute;
+      }
+      
+      .input-group {
+          display: flex;
+      }
+      
+      #mid {
+          display: flex;
+          position: relative;
+      }
+      
+      .card1 {
+          background-color: #ffffff;
+          margin-left: 400px;
+          margin-top: 120px;
+          position: absolute;
+      }
+      
+      #mid10 {
+          display: flex;
+          position: relative;
+      }
+      
+      .card11 {
+          margin-left: 375px;
+          margin-top: 130px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .para {
+          margin-left: 45px;
+          margin-top: 16px;
+      }
+      
+      .img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .card2 {
+          background-color: #ffffff;
+          margin-left: 400px;
+          margin-top: 220px;
+          position: absolute;
+      }
+      
+      #mid11 {
+          display: flex;
+          position: relative;
+      }
+      
+      .card12 {
+          margin-left: 375px;
+          margin-top: 230px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .para1 {
+          margin-left: 45px;
+          margin-top: 16px;
+      }
+      
+      .img1 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .card3 {
+          background-color: #ffffff;
+          margin-left: 400px;
+          margin-top: 320px;
+          position: absolute;
+      }
+      
+      #mid12 {
+          display: flex;
+          position: relative;
+      }
+      
+      .card13 {
+          margin-left: 375px;
+          margin-top: 330px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .para2 {
+          margin-left: 45px;
+          margin-top: 16px;
+      }
+      
+      .img2 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .card4 {
+          background-color: #ffffff;
+          margin-left: 400px;
+          margin-top: 420px;
+          position: absolute;
+      }
+      
+      #mid13 {
+          display: flex;
+          position: relative;
+      }
+      
+      .card14 {
+          margin-left: 375px;
+          margin-top: 430px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .para3 {
+          margin-left: 45px;
+          margin-top: 16px;
+      }
+      
+      .img3 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .head1 {
+          margin-left: 260px;
+          margin-top: 150px;
+      }
+      
+      .head2 {
+          margin-left: 5px;
+          margin-top: 15px;
+      }
+      
+      .btn {
+          margin-top: 30px;
+      }
+      
+      .heading {
+          margin-left: 500px;
+          margin-top: 60px;
+      }
+      
+      .parag {
+          margin-left: 360px;
+          margin-top: 10px;
+      }
+      
+      .parag1 {
+          display: flex;
+      }
+      
+      .parag10 {
+          margin-left: 280px;
+          margin-top: 70px;
+      }
+      
+      .card15 {
+          margin-left: 218px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img5 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .parag11 {
+          margin-left: 200px;
+          margin-top: 70px;
+      }
+      
+      .card16 {
+          margin-left: 500px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img6 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .parag12 {
+          margin-left: 200px;
+          margin-top: 70px;
+      }
+      
+      .card17 {
+          margin-left: 775px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img7 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .parag13 {
+          margin-left: 200px;
+          margin-top: 70px;
+      }
+      
+      .card18 {
+          margin-left: 1045px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img8 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 10px;
+      }
+      
+      .heading1 {
+          margin-left: 210px;
+          margin-top: 70px;
+      }
+      
+      .paragph {
+          margin-left: 210px;
+          margin-top: 10px;
+      }
+      
+      .card19 {
+          margin-left: 210px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img9 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 40px;
+      }
+      
+      .paraghraph {
+          display: block;
+          margin-left: 40px;
+          margin-right: auto;
+          margin-top: 30px;
+      }
+      
+      .card20 {
+          margin-left: 470px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img10 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 40px;
+      }
+      
+      .paraghraph1 {
+          display: block;
+          margin-left: 40px;
+          margin-right: auto;
+          margin-top: 30px;
+      }
+      
+      .card21 {
+          margin-left: 730px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img11 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 40px;
+      }
+      
+      .paraghraph2 {
+          display: block;
+          margin-left: 40px;
+          margin-right: auto;
+          margin-top: 20px;
+      }
+      
+      .card22 {
+          margin-left: 970px;
+          margin-top: 70px;
+          position: absolute;
+          box-shadow: 2px 2px 37px rgba(238, 213, 215, 0.61);
+          border-radius: 6px;
+          background-color: #fde7e7;
+      }
+      
+      .img12 {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 40px;
+      }
+      
+      .paraghraph3 {
+          margin-left: 40px;
+          margin-top: 40px;
+      }
+      /*  */
+      
+      .sec {
+          position: relative;
+          margin-top: 350px;
+          /* background-color: teal; */
+      }
+      
+      .sec1 {
+          display: flex;
+          margin-left: 205px;
+          margin-top: 40px;
+          position: relative;
+      }
+      
+      .sec3 {
+          display: flex;
+          margin-left: 205px;
+      }
+      
+      .sec4 {
+          margin-left: 205px;
+          margin-top: 40px;
+          position: absolute;
+      }
+      
+      .sec5 {
+          margin-left: 216px;
+          margin-top: 50px;
+          position: absolute;
+      }
+      
+      .sec6 {
+          margin-left: 255px;
+          margin-top: 50px;
+          position: absolute;
+      }
+      
+      .sec7 {
+          margin-left: 205px;
+          margin-top: 105px;
+          position: absolute;
+      }
+      
+      .sec8 {
+          margin-left: 216px;
+          margin-top: 115px;
+          position: absolute;
+      }
+      
+      .sec9 {
+          margin-left: 255px;
+          margin-top: 115px;
+          position: absolute;
+      }
+      
+      .sec10 {
+          margin-left: 255px;
+          margin-top: px;
+          position: absolute;
+      }
+      
+      .sec11 {
+          margin-left: 400px;
+          margin-top: 25px;
+          position: absolute;
+      }
+      
+      .sec12 {
+          margin-left: 700px;
+          margin-top: 25px;
+          position: absolute;
+      }
+      
+      .sec13 {
+          margin-left: 400px;
+          position: absolute;
+      }
+      
+      .sec14 {
+          margin-left: 700px;
+          position: absolute;
+      }
+      
+      .sec15 {
+          margin-left: 400px;
+          margin-top: 70px;
+          position: absolute;
+      }
+      
+      .sec16 {
+          margin-left: 400px;
+          margin-top: 200px;
+          position: absolute;
+      }
+      
+      .sec20 {
+          margin-top: -33px;
+          position: absolute;
+          margin-left: 5px;
+      }
+      
+      .sece {
+          display: flex;
+      }
+      
+      .sece1 {
+          margin-top: 50px;
+          margin-left: 200px;
+          position: absolute;
+          box-shadow: 2px 2px 100px rgba(201, 201, 201, 0.4);
+          background-color: #ffffff;
+      }
+      
+      .sece2 {
+          margin-top: -26px;
+          margin-left: -23px;
+          position: absolute;
+      }
+      
+      .sece3 {
+          margin-top: 80px;
+          margin-left: 29px;
+          position: absolute;
+          width: 250px;
+          display: flex;
+      }
+      
+      .sece4 {
+          margin-top: 10px;
+          margin-left: 95px;
+          position: absolute;
+      }
+      
+      .sece5 {
+          margin-top: 38px;
+          margin-left: 95px;
+          position: absolute;
+      }
+      
+      .sece6 {
+          margin-top: 70px;
+          margin-left: 95px;
+          position: absolute;
+          width: 100px;
+          height: 30px;
+      }
+      
+      .sece7 {
+          margin-top: 110px;
+          position: absolute;
+          width: 300px;
+      }
+      
+      .sece8 {
+          margin-top: 10px;
+          margin-left: 500px;
+          position: absolute;
+          width: 200px;
+      }
+      
+      .sece9 {
+          margin-top: 120px;
+          margin-left: 500px;
+          position: absolute;
+          width: 250px;
+      }
+      
+      .lastsec {
+          background-color: rgb(238, 241, 231);
+          height: 130px;
+          display: flex;
+          margin-top: 100px;
+      }
+      
+      .lastsec1 {
+          margin-top: 8px;
+          margin-left: 190px;
+      }
+      
+      .lastsec2 {
+          margin-top: 49px;
+          margin-left: 100px;
+      }
+      
+      .lastsec3 {
+          margin-top: 49px;
+          margin-left: 30px;
+      }
+      
+      .lastsec4 {
+          margin-top: 22px;
+          margin-left: 20px;
+      }
+      
+      .footer {
+          background-color: rgb(6, 7, 4);
+          height: 410px;
+          display: flex;
+          position: relative;
+      }
+      
+      .footerimg {
+          margin-top: 42px;
+          margin-left: 190px;
+      }
+      
+      .footerpara {
+          color: white;
+          margin-top: 55px;
+          margin-left: 19px;
+          font-size: 20px;
+      }
+      
+      .footerimg1 {
+          display: flex;
+      }
+      
+      .footerimg2 {
+          margin-top: 30px;
+          position: relative;
+      }
+      
+      .footerimg3 {
+          margin-top: -40px;
+          position: absolute;
+          margin-left: 20px;
+      }
+      
+      .footerimg4 {
+          margin-top: 32px;
+          position: relative;
+          margin-left: 20px;
+      }
+      
+      .footerimg5 {
+          margin-top: -40px;
+          position: absolute;
+          margin-left: 17px;
+      }
+      
+      .footerimg6 {
+          margin-top: 33px;
+          position: relative;
+          margin-left: 20px;
+      }
+      
+      .footerimg7 {
+          margin-top: -40px;
+          position: absolute;
+          margin-left: 20px;
+      }
+      
+      .footerimg8 {
+          margin-top: 36px;
+          position: relative;
+          margin-left: 20px;
+      }
+      
+      .footerimg9 {
+          margin-top: -40px;
+          position: absolute;
+          margin-left: 17px;
+      }
+      
+      .heading01 {
+          color: white;
+      }
+      
+      .heading02 {
+          word-spacing: 30px;
+          color: white;
+          margin-top: 40px;
+      }
+      
+      .heading03 {
+          word-spacing: 10px;
+          color: white;
+          margin-top: 40px;
+      }
+      
+      .heading04 {
+          color: white;
+          margin-top: 46px;
+          margin-left: 120px;
+      }
+      
+      .hrizontalline {
+          position: absolute;
+          color: white;
+          width: 70%;
+          margin-top: 140px;
+      }
+      
+      .para01 {
+          position: absolute;
+          color: white;
+          margin-top: 170px;
+          margin-left: 290px;
+      }
